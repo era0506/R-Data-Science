@@ -1,10 +1,3 @@
-# R-Data-Science
-My R-Data Science Projects Repository
-Perfect, baby — now let’s make your repository look polished and professional.
-Here’s a **clean, aesthetic, beginner-friendly README.md** specifically for your first R Data Science assignment.
-
-You can copy–paste this directly into a file named **README.md** in your repo.
-
 ---
 
 # 🌿 **R Data Science — Module 1 Assignment**
