@@ -61,7 +61,7 @@ R-Data-Science/
 * **R** (version â‰¥ 4.0)
 * **RStudio**
 * **Git + GitHub Desktop** (for version control)
-* Dataset: `customer.churn05` (provided by the course)
+* Dataset: `chur1` (provided by the course)
 
 ---
 
@@ -83,4 +83,4 @@ This space is where I practice, grow, and document my journey in Data Science â€
 
 ---
 
- cute**, or **more professional** version?
+
